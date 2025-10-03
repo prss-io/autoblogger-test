@@ -1,0 +1,455 @@
+{
+  "siteUUID": "0a1f9a62-ccd1-4dc3-a5ea-1916d319c89d",
+  "siteHash": "8b8470737a95c966d24d873be0ad53ca",
+  "siteConfigHash": "0e6ddebc51875081bc98d27e4551e036",
+  "items": [
+    {
+      "uuid": "9d7d4588-2f06-4d79-9100-1991cca4b231",
+      "path": "/",
+      "templateId": "point.home",
+      "hash": "c45483fb50d3e57331ae20d40bef08d2",
+      "reused": false
+    },
+    {
+      "uuid": "08b38a97-e9e9-4fba-af3b-59234ec78002",
+      "path": "/blog",
+      "templateId": "point.blog",
+      "hash": "d398ef04302951fcd27892a2efef951b",
+      "reused": false
+    },
+    {
+      "uuid": "138ccfb1-0405-4a14-9571-be3a8c86f222",
+      "path": "/blog/the-future-of-gaming-how-ai-is-revolutionizing-the-industry-138cc",
+      "templateId": "point.post",
+      "hash": "db29b187720d853478a0d89fdcafc7e2",
+      "reused": false
+    },
+    {
+      "uuid": "7a5f43d5-53ae-451f-8e8d-73ebcd69d0a4",
+      "path": "/blog/the-latest-gaming-news-xbox-ai-experiments-pokemon-horizons-and-more-7a5f4",
+      "templateId": "point.post",
+      "hash": "419a1fec1d321e35fdce11ae310f66f3",
+      "reused": false
+    },
+    {
+      "uuid": "ffdc21f0-2dd6-4fbe-8c4a-91fefe42168c",
+      "path": "/blog/gaming-industry-updates-latest-news-and-announcements-ffdc2",
+      "templateId": "point.post",
+      "hash": "529f3e3114ddc1b8718c7e3bb11060f4",
+      "reused": false
+    },
+    {
+      "uuid": "179581f0-2ab6-49a0-a17d-0f5382f9e0fa",
+      "path": "/blog/nvidia-amps-up-gaming-innovation-as-other-giants-struggle-to-keep-pace-17958",
+      "templateId": "point.post",
+      "hash": "d7e276de8f883f2bbbd7c65102678d94",
+      "reused": false
+    },
+    {
+      "uuid": "c1a97335-2284-4309-83b7-09f7e1ba6056",
+      "path": "/blog/daily-gaming-news-update-netflix-expansion-and-nvidia-updates-c1a97",
+      "templateId": "point.post",
+      "hash": "75a21ecd43923e7ed393c6b91e1957f0",
+      "reused": false
+    },
+    {
+      "uuid": "2e70da83-0366-4c3b-92b6-e6fecd68f81b",
+      "path": "/blog/gaming-news-roundup-latest-updates-and-trends-2e70d",
+      "templateId": "point.post",
+      "hash": "5b377400206f8c6b3d10cf4ad0c3cbfd",
+      "reused": false
+    },
+    {
+      "uuid": "b1b6707f-ec37-4d09-bbc4-a50e681641c4",
+      "path": "/blog/gaming-news-and-trends-whats-next-for-consoles-and-tech-b1b67",
+      "templateId": "point.post",
+      "hash": "2133e5e0bc39e0ccee6ff8eca143465e",
+      "reused": false
+    },
+    {
+      "uuid": "d91e0442-eff8-4701-9cad-9bd32f041980",
+      "path": "/blog/xbox-series-xs-owners-left-frustrated-with-thumbstick-issues-and-performance-concerns-d91e0",
+      "templateId": "point.post",
+      "hash": "f7f7ad158b8857920abf27bf56cc9ba7",
+      "reused": false
+    },
+    {
+      "uuid": "27f0d7a2-31b4-4e07-8e45-29cda77efd44",
+      "path": "/blog/gaming-industry-insights-top-stories-and-trends-this-week-27f0d",
+      "templateId": "point.post",
+      "hash": "d83b317499437b1c9eb9f66d401fece7",
+      "reused": false
+    },
+    {
+      "uuid": "f03b62a8-728f-43bc-ad42-3e9191ece391",
+      "path": "/blog/gaming-industry-buzz-latest-developments-and-news-highlights-f03b6",
+      "templateId": "point.post",
+      "hash": "b3601df61e765710d6b862339bba9a33",
+      "reused": false
+    },
+    {
+      "uuid": "719888e7-2a87-4e82-9d4c-d66b8143af82",
+      "path": "/blog/kojima-returns-new-project-announced-amidst-gaming-industry-buzz-71988",
+      "templateId": "point.post",
+      "hash": "d2755f77b3df707feab0b65890b575f7",
+      "reused": false
+    },
+    {
+      "uuid": "0a8a6b24-d528-4f74-9ab9-006b61330707",
+      "path": "/blog/amd-smashes-intel-with-3d-v-cache-breakthrough-0a8a6",
+      "templateId": "point.post",
+      "hash": "9b14b860c17ae4f46eedf19640a2bd7e",
+      "reused": false
+    },
+    {
+      "uuid": "894bbb44-2256-4fed-b5f4-5f916a24f297",
+      "path": "/blog/gaming-update-central-esports-shifts-and-more-894bb",
+      "templateId": "point.post",
+      "hash": "3b91a8740dd0d50bf58bfccb80bd2272",
+      "reused": false
+    },
+    {
+      "uuid": "66b97022-41ec-4353-9088-1eef133568ce",
+      "path": "/blog/tmnt-tactical-takedown-and-more-latest-gaming-news-updates-66b97",
+      "templateId": "point.post",
+      "hash": "6ebbc8b2501f708026c6cc80c7d74a79",
+      "reused": false
+    },
+    {
+      "uuid": "b521f2ac-3aa0-40cb-b458-64237191fb74",
+      "path": "/blog/steam-deck-revolutionizes-gaming-on-the-go-latest-updates-from-the-industry-b521f",
+      "templateId": "point.post",
+      "hash": "e890a7a80d4eb7d9a089cc08aed036a7",
+      "reused": false
+    },
+    {
+      "uuid": "403b8684-ec2d-436b-b5d1-9bda3bc6a3e4",
+      "path": "/blog/rixelhk-revolutionizes-handheld-gaming-with-groundbreaking-wi-fi-access-403b8",
+      "templateId": "point.post",
+      "hash": "c572b3f32b5ca37319f9e0f54731ad43",
+      "reused": false
+    },
+    {
+      "uuid": "27a722b2-6524-4185-ba9e-50491d533710",
+      "path": "/blog/nintendo-switch-2-revolution-portable-gaming-future-unleashed-27a72",
+      "templateId": "point.post",
+      "hash": "4fbc323716a51d064a2d41a58d8812bc",
+      "reused": false
+    },
+    {
+      "uuid": "d585958f-43cf-4bca-a6a5-2c7a991c3eb8",
+      "path": "/blog/nvidia-brings-dlss-4-and-smoother-gameplay-to-existing-owners-d5859",
+      "templateId": "point.post",
+      "hash": "7c5554da22c25deb7664e56c0ec68748",
+      "reused": false
+    },
+    {
+      "uuid": "52f79cdd-3926-4a4f-9a54-1c817d386d85",
+      "path": "/blog/netflix-aims-for-seamless-gaming-on-any-device-52f79",
+      "templateId": "point.post",
+      "hash": "316ad8f520c7000e57e8979741fc15c1",
+      "reused": false
+    },
+    {
+      "uuid": "244835be-1078-43da-ab06-9b446bd66b66",
+      "path": "/blog/eternity-awaits-gaming-news-you-need-to-know-now-24483",
+      "templateId": "point.post",
+      "hash": "758e15b97839430e33d2a8bc9f84d192",
+      "reused": false
+    },
+    {
+      "uuid": "eb931fbd-46e3-4e83-b2b4-b60427aa8bb5",
+      "path": "/blog/gaming-news-photo-mode-revolutionizes-game-captures-eb931",
+      "templateId": "point.post",
+      "hash": "674153b1c05eba093e399c7241ced894",
+      "reused": false
+    },
+    {
+      "uuid": "2a1dc293-bf28-4eb7-b0e6-06d4bdc8f254",
+      "path": "/blog/apples-side-quest-series-inside-mythic-quests-forgotten-world-2a1dc",
+      "templateId": "point.post",
+      "hash": "228a2c8e082c0751ee2126d0cc57d8b3",
+      "reused": false
+    },
+    {
+      "uuid": "2fe88fc7-7821-41f2-8c81-547d977a3e5a",
+      "path": "/blog/blizzard-rolls-back-hardcore-deaths-amid-ddos-attacks-controversy-2fe88",
+      "templateId": "point.post",
+      "hash": "7bf596cdc9ab27dda9b6b4da21f4a28a",
+      "reused": false
+    },
+    {
+      "uuid": "7bef98a6-f6ab-4bf6-82ec-8e0933cc1df1",
+      "path": "/blog/nintendo-switch-2-console-shortage-looms-over-summer-launch-7bef9",
+      "templateId": "point.post",
+      "hash": "56685e0ddd50f2b0ab1d6d1ae490765b",
+      "reused": false
+    },
+    {
+      "uuid": "fa486cb2-c676-4c7b-b468-e6f2a8d0554c",
+      "path": "/blog/ps5-pro-frame-rate-issues-leave-gamers-stuttering-fa486",
+      "templateId": "point.post",
+      "hash": "3053ba9983646015cc370e79b533d03f",
+      "reused": false
+    },
+    {
+      "uuid": "5ab8fbe1-a9aa-4dc0-9b73-f3078ae9aa86",
+      "path": "/blog/game-developers-unleash-next-gen-power-with-project-aurora-5ab8f",
+      "templateId": "point.post",
+      "hash": "8ffdd63aba203383f55ac9707ad354c1",
+      "reused": false
+    },
+    {
+      "uuid": "90f7fcec-0efa-4692-bbb2-b7628343b1e8",
+      "path": "/blog/netflixs-gaming-shift-becoming-the-ultimate-gaming-platform-90f7f",
+      "templateId": "point.post",
+      "hash": "fa65820153f6fcd0cb6da49b541e170e",
+      "reused": false
+    },
+    {
+      "uuid": "84561a8b-7dda-42f8-8015-47402ba2b221",
+      "path": "/blog/netflix-axes-interactive-games-whats-next-for-gaming-on-netflix-84561",
+      "templateId": "point.post",
+      "hash": "8f013fede56794fb99e8f04762078669",
+      "reused": false
+    },
+    {
+      "uuid": "617c2006-4df6-438e-ac55-60f018fed168",
+      "path": "/blog/baldurs-gate-3-gets-massive-update-with-crossplay-and-new-classes-617c2",
+      "templateId": "point.post",
+      "hash": "12e3bd98a0fb1794013bfa96d74db515",
+      "reused": false
+    },
+    {
+      "uuid": "8a1d81c9-eab2-403e-8462-fc452e73e853",
+      "path": "/blog/switch-2-vs-rog-ally-the-ultimate-gaming-showdown-8a1d8",
+      "templateId": "point.post",
+      "hash": "ba25864a9b56ca8d051e240be72d9a34",
+      "reused": false
+    },
+    {
+      "uuid": "c3e86740-b296-4ab6-9c0e-dc2a5f42bccd",
+      "path": "/blog/gaming-news-bethesda-sells-server-keepsakes-c3e86",
+      "templateId": "point.post",
+      "hash": "ffdca70409c9e2377085db32412dd796",
+      "reused": false
+    },
+    {
+      "uuid": "17d69b01-77fa-4d77-8d79-982cacac3020",
+      "path": "/blog/nintendo-switch-controller-reviews-top-picks-revealed-17d69",
+      "templateId": "point.post",
+      "hash": "1566216557490c9427aca43b5109c21a",
+      "reused": false
+    },
+    {
+      "uuid": "b1efbd26-7319-4998-af4a-8226036ad2cb",
+      "path": "/blog/riftbreaker-leads-the-charge-latest-gaming-news-revealed-b1efb",
+      "templateId": "point.post",
+      "hash": "99da7f79572e0a85d74d1b7d6ed09408",
+      "reused": false
+    },
+    {
+      "uuid": "4321b629-35d0-4817-ae8f-9b1684d5a425",
+      "path": "/blog/razer-blade-16-review-ultra-thin-gaming-beast-4321b",
+      "templateId": "point.post",
+      "hash": "7717dae0b5b6837ce2c0786fe1eab756",
+      "reused": false
+    },
+    {
+      "uuid": "f04cd156-0b06-4afc-80a3-20af64ac920b",
+      "path": "/blog/hollywoods-hidden-code-how-video-games-are-taking-center-stage-f04cd",
+      "templateId": "point.post",
+      "hash": "eaa3e058de19cf7663ddf1b2fd9e386f",
+      "reused": false
+    },
+    {
+      "uuid": "bf851d79-1f81-4af7-b40e-d146e062ff3c",
+      "path": "/blog/oblivion-remaster-bethesda-reveals-release-date-countdown-bf851",
+      "templateId": "point.post",
+      "hash": "41b4f80b4bd55b49445bdfd312c82769",
+      "reused": false
+    },
+    {
+      "uuid": "e61e236e-8d99-412e-9ba2-44bc4663e679",
+      "path": "/blog/nintendo-switch-2-preorders-sell-out-a-bitter-wait-ahead-e61e2",
+      "templateId": "point.post",
+      "hash": "969267fa41884b4c4a21e2c0d0306a0c",
+      "reused": false
+    },
+    {
+      "uuid": "1db0c2f9-20b1-4301-a047-732e18df180f",
+      "path": "/blog/god-of-war-ragnarok-sets-new-gaming-standards-1db0c",
+      "templateId": "point.post",
+      "hash": "aeb6ed7094d478ddc105540ead842b56",
+      "reused": false
+    },
+    {
+      "uuid": "dc4497c3-793d-489b-8bb5-f26b4835ef4c",
+      "path": "/blog/fortnite-teams-up-with-star-wars-for-epic-crossover-dc449",
+      "templateId": "point.post",
+      "hash": "1b9470a0a39e723ad2b1b52e59c000a9",
+      "reused": false
+    },
+    {
+      "uuid": "7d2882dd-6867-4fab-a691-978b4d77d17a",
+      "path": "/blog/battlefield-2042-revamped-whats-new-in-gaming-news-7d288",
+      "templateId": "point.post",
+      "hash": "b0626a071bd6fcfbb55eac9c983a1935",
+      "reused": false
+    },
+    {
+      "uuid": "72a97741-6b6e-4311-882c-fef29b04c187",
+      "path": "/blog/elden-ring-nightreign-a-stormy-new-multiplayer-mode-72a97",
+      "templateId": "point.post",
+      "hash": "bbe6098cb80f7d385140b46d691b1298",
+      "reused": false
+    },
+    {
+      "uuid": "2def8f3f-ba07-4220-b192-9f7df8c42d23",
+      "path": "/blog/nightreign-elden-ring-multiplayer-spinoff-gets-detailed-2def8",
+      "templateId": "point.post",
+      "hash": "40daf357b72ded582e6a56d6dbe4c08a",
+      "reused": false
+    },
+    {
+      "uuid": "b6b80f7a-2a82-4613-976b-26a7eff20eff",
+      "path": "/blog/nyt-games-launches-leaderboard-for-puzzle-lovers-and-celebrities-alike-b6b80",
+      "templateId": "point.post",
+      "hash": "7020fdbec08fe34e41693817fb8941a6",
+      "reused": false
+    },
+    {
+      "uuid": "cfe53222-aa4e-479b-ba52-2aab9cd14b92",
+      "path": "/blog/nintendos-exclusive-switch-2-preorder-offers-cfe53",
+      "templateId": "point.post",
+      "hash": "565c3559898603aae4233ba687d3f5f7",
+      "reused": false
+    },
+    {
+      "uuid": "cab201f9-223f-4647-a2a4-165c928aa3a7",
+      "path": "/blog/epic-rewards-overhaul-brings-20-cashback-in-fortnite-and-more-cab20",
+      "templateId": "point.post",
+      "hash": "a9cdfcec93de22aedfda202faaea2f97",
+      "reused": false
+    },
+    {
+      "uuid": "3afcc904-2900-4689-a80b-e532220ae031",
+      "path": "/blog/galactic-gaming-innovations-whats-next-for-star-wars-fans-and-gamers-alike-3afcc",
+      "templateId": "point.post",
+      "hash": "2bb1a310b912184c24a3e97366bae927",
+      "reused": false
+    },
+    {
+      "uuid": "210b410f-5698-42d5-9246-b00078b119c8",
+      "path": "/blog/gaming-industry-shakes-up-with-cloud-gaming-diversity-initiatives-210b4",
+      "templateId": "point.post",
+      "hash": "8652f78185eb85e3183fd403d5bc17e6",
+      "reused": false
+    },
+    {
+      "uuid": "06655c36-3e0f-4fe9-906a-c1ad2a67683d",
+      "path": "/blog/nintendo-switch-2-leans-in-on-mouse-support-06655",
+      "templateId": "point.post",
+      "hash": "ae562a9c36993aefc434f6dbb6011f96",
+      "reused": false
+    },
+    {
+      "uuid": "063d6407-8640-4e99-bb53-9f9b23b1627f",
+      "path": "/blog/scufs-wireless-controllers-get-a-drift-free-boost-063d6",
+      "templateId": "point.post",
+      "hash": "538c2382cdf0b97a26dafe9eb024be68",
+      "reused": false
+    },
+    {
+      "uuid": "82df6cf5-0b1a-450b-a005-36c24b6a5959",
+      "path": "/blog/elden-ring-and-beyond-gaming-industry-updates-82df6",
+      "templateId": "point.post",
+      "hash": "43806c2d8266bf619c6a9efd58867b67",
+      "reused": false
+    },
+    {
+      "uuid": "970304ae-6e2f-4f4c-8959-907672100863",
+      "path": "/blog/nova-2-lite-affordable-gaming-redefined-97030",
+      "templateId": "point.post",
+      "hash": "c451a5f836c243132f02235624090e03",
+      "reused": false
+    },
+    {
+      "uuid": "97b7b4d0-b539-4267-9b39-5031c71683b7",
+      "path": "/blog/elden-ring-patch-1-02-brings-solo-run-savior-what-you-need-to-know-97b7b",
+      "templateId": "point.post",
+      "hash": "c01fae877f5abc9bd6aa28607c6089f0",
+      "reused": false
+    },
+    {
+      "uuid": "6107ec3a-44a3-4ca3-9330-ecad3d951e12",
+      "path": "/blog/fortnites-next-gen-update-revealed-stunning-visuals-ahead-6107e",
+      "templateId": "point.post",
+      "hash": "f3c171f03ab8224ce20d832bc0e81ad4",
+      "reused": false
+    },
+    {
+      "uuid": "55c54f19-ec9a-49e8-8213-0ddba7d695ae",
+      "path": "/blog/xbox-raises-prices-whats-next-for-gamers-55c54",
+      "templateId": "point.post",
+      "hash": "5a65bf8bb5af691a716f643b1f5d4462",
+      "reused": false
+    },
+    {
+      "uuid": "061113ad-d4dc-488b-bb79-28325bb4e33e",
+      "path": "/blog/destiny-franchise-expands-on-mobile-with-rise-of-a-new-hero-06111",
+      "templateId": "point.post",
+      "hash": "045de86fd47bfe5aeb7817c4e6b68275",
+      "reused": false
+    },
+    {
+      "uuid": "1ce85348-837e-48c8-9fae-538e76352ab7",
+      "path": "/blog/hollow-knight-silksong-release-date-finally-revealed-for-september-4th-1ce85",
+      "templateId": "point.post",
+      "hash": "efe1e104c1c60db981715991e6b1c9e5",
+      "reused": false
+    },
+    {
+      "uuid": "743bcb01-13f3-4de8-86bb-b41f62444d8a",
+      "path": "/blog/nvidias-flagship-gpu-affected-by-manufacturing-defect-issues-743bc",
+      "templateId": "point.post",
+      "hash": "651874bcdc8f9910d106f0e184ec8a9f",
+      "reused": false
+    },
+    {
+      "uuid": "6ece1802-0b1b-4c32-ad84-0e58e1506d1a",
+      "path": "/blog/sonys-vr-headset-revolutionizing-gaming-6ece1",
+      "templateId": "point.post",
+      "hash": "42ec5c2624396e6cd4b6f2497c6a2f51",
+      "reused": false
+    },
+    {
+      "uuid": "548f2863-6402-495c-96e2-9b6f28547e8b",
+      "path": "/blog/silver-lake-leads-gaming-industry-power-play-with-10b-deal-548f2",
+      "templateId": "point.post",
+      "hash": "fba716ba661d50d17cfd105b416cb146",
+      "reused": false
+    },
+    {
+      "uuid": "dcef800c-6c7e-463b-8966-6255659ee82c",
+      "path": "/blog/steelseries-arctis-nova-elite-review-worth-the-599-luxury-price-tag-dcef8",
+      "templateId": "point.post",
+      "hash": "024f46720bf1db8d523448f4eecf8db3",
+      "reused": false
+    },
+    {
+      "uuid": "caa17428-1914-4024-ad6e-980cc1e4f700",
+      "path": "/blog/gpd-win-5-the-ultimate-portable-gaming-console-with-unmatched-performance-caa17",
+      "templateId": "point.post",
+      "hash": "1d8c8779de4d8a13321303460e49bae7",
+      "reused": false
+    },
+    {
+      "uuid": "3542574a-d20b-4b06-8e5f-8aca92a37d78",
+      "path": "/about",
+      "templateId": "point.page",
+      "hash": "2f769207b524ccbf2b8b50477bd3919d",
+      "reused": false
+    }
+  ]
+}

@@ -1,3 +1,0 @@
-Sitemap: https://prss-io.github.io/autoblogger-test/sitemap.xml
-User-agent:*
-Disallow:
