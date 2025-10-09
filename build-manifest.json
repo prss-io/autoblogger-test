@@ -1,7 +1,7 @@
 {
   "siteUUID": "0a1f9a62-ccd1-4dc3-a5ea-1916d319c89d",
-  "siteHash": "8b8470737a95c966d24d873be0ad53ca",
-  "siteConfigHash": "0e6ddebc51875081bc98d27e4551e036",
+  "siteHash": "388d0178ad925a723845d3322cf9fb38",
+  "siteConfigHash": "fc0b2324883e2397cbdf5aa07428d738",
   "items": [
     {
       "uuid": "9d7d4588-2f06-4d79-9100-1991cca4b231",
@@ -442,6 +442,27 @@
       "path": "/blog/gpd-win-5-the-ultimate-portable-gaming-console-with-unmatched-performance-caa17",
       "templateId": "point.post",
       "hash": "1d8c8779de4d8a13321303460e49bae7",
+      "reused": false
+    },
+    {
+      "uuid": "809d5e07-9702-4071-9451-b55ee37c5d3d",
+      "path": "/blog/free-ad-supported-xbox-cloud-gaming-arrives-what-you-need-to-know-809d5",
+      "templateId": "point.post",
+      "hash": "9bb640846986e8bb03579a0a1c78a31d",
+      "reused": false
+    },
+    {
+      "uuid": "e3ebe53b-cad2-4fb9-8670-dc8df2fd9eb2",
+      "path": "/blog/playdate-os-3-0-folders-game-library-app-and-storage-expansion-e3ebe",
+      "templateId": "point.post",
+      "hash": "b745ce27f20450dcb7b89782f9bb1200",
+      "reused": false
+    },
+    {
+      "uuid": "ebde610f-9b78-486b-b3de-7fd30c4033c6",
+      "path": "/blog/netflix-brings-multiplayer-party-games-to-tv-this-holiday-season-ebde6",
+      "templateId": "point.post",
+      "hash": "85fd300866e23de94ed092ac60a7012f",
       "reused": false
     },
     {
