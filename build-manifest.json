@@ -1,475 +1,631 @@
 {
   "siteUUID": "0a1f9a62-ccd1-4dc3-a5ea-1916d319c89d",
-  "siteHash": "388d0178ad925a723845d3322cf9fb38",
-  "siteConfigHash": "fc0b2324883e2397cbdf5aa07428d738",
+  "siteHash": "be0d614f6c2b25250fc510ce5f4754aa",
+  "siteConfigHash": "ef1928586d4591e4b5bd71d6fb6ae9bf",
+  "mode": "deploy",
   "items": [
     {
       "uuid": "9d7d4588-2f06-4d79-9100-1991cca4b231",
       "path": "/",
       "templateId": "point.home",
-      "hash": "c45483fb50d3e57331ae20d40bef08d2",
+      "hash": "9ea4211ba5b3e5334d2ecf2f3d0d73ba",
+      "childHash": "697f5a681494ad2b4e25092cc80b1978",
       "reused": false
     },
     {
       "uuid": "08b38a97-e9e9-4fba-af3b-59234ec78002",
       "path": "/blog",
       "templateId": "point.blog",
-      "hash": "d398ef04302951fcd27892a2efef951b",
+      "hash": "9649afaf0a0e6a8422f608518c5f273a",
+      "childHash": "a43bc3576b082c1ef809118f0c313013",
       "reused": false
     },
     {
       "uuid": "138ccfb1-0405-4a14-9571-be3a8c86f222",
       "path": "/blog/the-future-of-gaming-how-ai-is-revolutionizing-the-industry-138cc",
       "templateId": "point.post",
-      "hash": "db29b187720d853478a0d89fdcafc7e2",
+      "hash": "798986bc29f2fb85f5c7ee678fea9050",
+      "childHash": "b85612e8641d13ca4c2d32f622edb1de",
       "reused": false
     },
     {
       "uuid": "7a5f43d5-53ae-451f-8e8d-73ebcd69d0a4",
       "path": "/blog/the-latest-gaming-news-xbox-ai-experiments-pokemon-horizons-and-more-7a5f4",
       "templateId": "point.post",
-      "hash": "419a1fec1d321e35fdce11ae310f66f3",
+      "hash": "5f27fbd0b82af4f9b0c19bf1aacc3ec1",
+      "childHash": "f0978dd77c65f92d6a1be23edfbdec21",
       "reused": false
     },
     {
       "uuid": "ffdc21f0-2dd6-4fbe-8c4a-91fefe42168c",
       "path": "/blog/gaming-industry-updates-latest-news-and-announcements-ffdc2",
       "templateId": "point.post",
-      "hash": "529f3e3114ddc1b8718c7e3bb11060f4",
+      "hash": "3d787f69cdf7f91d03204c18ae10784b",
+      "childHash": "3a2e37eb3d4c13b55bf4a09e4319f3bd",
       "reused": false
     },
     {
       "uuid": "179581f0-2ab6-49a0-a17d-0f5382f9e0fa",
       "path": "/blog/nvidia-amps-up-gaming-innovation-as-other-giants-struggle-to-keep-pace-17958",
       "templateId": "point.post",
-      "hash": "d7e276de8f883f2bbbd7c65102678d94",
+      "hash": "0b3c790476180ec0d701d42f2bdac98c",
+      "childHash": "f0e7718c71af44f468058d04bef0e72a",
       "reused": false
     },
     {
       "uuid": "c1a97335-2284-4309-83b7-09f7e1ba6056",
       "path": "/blog/daily-gaming-news-update-netflix-expansion-and-nvidia-updates-c1a97",
       "templateId": "point.post",
-      "hash": "75a21ecd43923e7ed393c6b91e1957f0",
+      "hash": "4830f8a510fe2d8fbc8498d6ef7e519f",
+      "childHash": "50dd31eaa0080032b9fd3bd77f3bf19a",
       "reused": false
     },
     {
       "uuid": "2e70da83-0366-4c3b-92b6-e6fecd68f81b",
       "path": "/blog/gaming-news-roundup-latest-updates-and-trends-2e70d",
       "templateId": "point.post",
-      "hash": "5b377400206f8c6b3d10cf4ad0c3cbfd",
+      "hash": "fe08c0b9118709b5168913f2eb92addb",
+      "childHash": "2ca22d7024b2d05a088b8d8079c2ddef",
       "reused": false
     },
     {
       "uuid": "b1b6707f-ec37-4d09-bbc4-a50e681641c4",
       "path": "/blog/gaming-news-and-trends-whats-next-for-consoles-and-tech-b1b67",
       "templateId": "point.post",
-      "hash": "2133e5e0bc39e0ccee6ff8eca143465e",
+      "hash": "7415ccae89d7abff9d0973dee1e046e4",
+      "childHash": "a1c75f81beb4207a93dad3f84da0c26b",
       "reused": false
     },
     {
       "uuid": "d91e0442-eff8-4701-9cad-9bd32f041980",
       "path": "/blog/xbox-series-xs-owners-left-frustrated-with-thumbstick-issues-and-performance-concerns-d91e0",
       "templateId": "point.post",
-      "hash": "f7f7ad158b8857920abf27bf56cc9ba7",
+      "hash": "36425c58ed22aa8c6b435705792b2a6a",
+      "childHash": "59bda48356ba745d925e1a3faf50f066",
       "reused": false
     },
     {
       "uuid": "27f0d7a2-31b4-4e07-8e45-29cda77efd44",
       "path": "/blog/gaming-industry-insights-top-stories-and-trends-this-week-27f0d",
       "templateId": "point.post",
-      "hash": "d83b317499437b1c9eb9f66d401fece7",
+      "hash": "fcd09a770b82df5bf4ccc06ed1a4b77e",
+      "childHash": "761572dadb1760e7f7d2107a000441fe",
       "reused": false
     },
     {
       "uuid": "f03b62a8-728f-43bc-ad42-3e9191ece391",
       "path": "/blog/gaming-industry-buzz-latest-developments-and-news-highlights-f03b6",
       "templateId": "point.post",
-      "hash": "b3601df61e765710d6b862339bba9a33",
+      "hash": "f5add71e4e35ea2f20a98fcbee019cff",
+      "childHash": "9c294237120df728c617d91af19ca36f",
       "reused": false
     },
     {
       "uuid": "719888e7-2a87-4e82-9d4c-d66b8143af82",
       "path": "/blog/kojima-returns-new-project-announced-amidst-gaming-industry-buzz-71988",
       "templateId": "point.post",
-      "hash": "d2755f77b3df707feab0b65890b575f7",
+      "hash": "a76319feb42537f1062ed17b9e9cf88d",
+      "childHash": "df6cee08796a46af22d556ae57f73e08",
       "reused": false
     },
     {
       "uuid": "0a8a6b24-d528-4f74-9ab9-006b61330707",
       "path": "/blog/amd-smashes-intel-with-3d-v-cache-breakthrough-0a8a6",
       "templateId": "point.post",
-      "hash": "9b14b860c17ae4f46eedf19640a2bd7e",
+      "hash": "bf2916bb06d8ec7563be04094f0f3808",
+      "childHash": "8ef2fdff3298e764a729cc85a2dc22f2",
       "reused": false
     },
     {
       "uuid": "894bbb44-2256-4fed-b5f4-5f916a24f297",
       "path": "/blog/gaming-update-central-esports-shifts-and-more-894bb",
       "templateId": "point.post",
-      "hash": "3b91a8740dd0d50bf58bfccb80bd2272",
+      "hash": "b151e694c8080fa8e14c2710a993d44a",
+      "childHash": "e9004dcf90972128ff080eeec583fd33",
       "reused": false
     },
     {
       "uuid": "66b97022-41ec-4353-9088-1eef133568ce",
       "path": "/blog/tmnt-tactical-takedown-and-more-latest-gaming-news-updates-66b97",
       "templateId": "point.post",
-      "hash": "6ebbc8b2501f708026c6cc80c7d74a79",
+      "hash": "534ba81e8a9bb2170571ccf9747e83a6",
+      "childHash": "923e55c5c631f5bd05d489230c815d10",
       "reused": false
     },
     {
       "uuid": "b521f2ac-3aa0-40cb-b458-64237191fb74",
       "path": "/blog/steam-deck-revolutionizes-gaming-on-the-go-latest-updates-from-the-industry-b521f",
       "templateId": "point.post",
-      "hash": "e890a7a80d4eb7d9a089cc08aed036a7",
+      "hash": "783b01a2fc415d5b37563813410bdda1",
+      "childHash": "87b87f4876bab98200ba8930e72b715f",
       "reused": false
     },
     {
       "uuid": "403b8684-ec2d-436b-b5d1-9bda3bc6a3e4",
       "path": "/blog/rixelhk-revolutionizes-handheld-gaming-with-groundbreaking-wi-fi-access-403b8",
       "templateId": "point.post",
-      "hash": "c572b3f32b5ca37319f9e0f54731ad43",
+      "hash": "8f30eae8afe70be2eb3d5aa41acf9911",
+      "childHash": "83e52ddd80103dc6b4050ce17f3d606b",
       "reused": false
     },
     {
       "uuid": "27a722b2-6524-4185-ba9e-50491d533710",
       "path": "/blog/nintendo-switch-2-revolution-portable-gaming-future-unleashed-27a72",
       "templateId": "point.post",
-      "hash": "4fbc323716a51d064a2d41a58d8812bc",
+      "hash": "0ffd042c1ad1e6afa727120376bafe48",
+      "childHash": "e669d4357e76932d09a6da9a694e35ff",
       "reused": false
     },
     {
       "uuid": "d585958f-43cf-4bca-a6a5-2c7a991c3eb8",
       "path": "/blog/nvidia-brings-dlss-4-and-smoother-gameplay-to-existing-owners-d5859",
       "templateId": "point.post",
-      "hash": "7c5554da22c25deb7664e56c0ec68748",
+      "hash": "dd85fa40f78e31551c07157e875896a9",
+      "childHash": "8f805e10d20685a9ddcea9cb92d5ca82",
       "reused": false
     },
     {
       "uuid": "52f79cdd-3926-4a4f-9a54-1c817d386d85",
       "path": "/blog/netflix-aims-for-seamless-gaming-on-any-device-52f79",
       "templateId": "point.post",
-      "hash": "316ad8f520c7000e57e8979741fc15c1",
+      "hash": "1692f86caa88e845531fe1ed82b675c6",
+      "childHash": "bafb02e744c19118c4a0f79535d6d9ea",
       "reused": false
     },
     {
       "uuid": "244835be-1078-43da-ab06-9b446bd66b66",
       "path": "/blog/eternity-awaits-gaming-news-you-need-to-know-now-24483",
       "templateId": "point.post",
-      "hash": "758e15b97839430e33d2a8bc9f84d192",
+      "hash": "e9fe52073e296cda29824749f3c358fe",
+      "childHash": "7c839ab4de6d6a96221c7f2d40150b9f",
       "reused": false
     },
     {
       "uuid": "eb931fbd-46e3-4e83-b2b4-b60427aa8bb5",
       "path": "/blog/gaming-news-photo-mode-revolutionizes-game-captures-eb931",
       "templateId": "point.post",
-      "hash": "674153b1c05eba093e399c7241ced894",
+      "hash": "58e644e33226cc8360852fe75e59a71a",
+      "childHash": "7ff562e5aa1e6d09b75172f75586c435",
       "reused": false
     },
     {
       "uuid": "2a1dc293-bf28-4eb7-b0e6-06d4bdc8f254",
       "path": "/blog/apples-side-quest-series-inside-mythic-quests-forgotten-world-2a1dc",
       "templateId": "point.post",
-      "hash": "228a2c8e082c0751ee2126d0cc57d8b3",
+      "hash": "d4d7ab18f28e24f1c808cd6b0f6181b4",
+      "childHash": "2bcf4d290306c2374116e9223997c64c",
       "reused": false
     },
     {
       "uuid": "2fe88fc7-7821-41f2-8c81-547d977a3e5a",
       "path": "/blog/blizzard-rolls-back-hardcore-deaths-amid-ddos-attacks-controversy-2fe88",
       "templateId": "point.post",
-      "hash": "7bf596cdc9ab27dda9b6b4da21f4a28a",
+      "hash": "0530a50963947a14062610de0fe6a4aa",
+      "childHash": "83c69d76f411ac54004800527de44333",
       "reused": false
     },
     {
       "uuid": "7bef98a6-f6ab-4bf6-82ec-8e0933cc1df1",
       "path": "/blog/nintendo-switch-2-console-shortage-looms-over-summer-launch-7bef9",
       "templateId": "point.post",
-      "hash": "56685e0ddd50f2b0ab1d6d1ae490765b",
+      "hash": "2264665e74dd236e568f88b3d8e660c6",
+      "childHash": "4266a57bc281b70f8c09048308216332",
       "reused": false
     },
     {
       "uuid": "fa486cb2-c676-4c7b-b468-e6f2a8d0554c",
       "path": "/blog/ps5-pro-frame-rate-issues-leave-gamers-stuttering-fa486",
       "templateId": "point.post",
-      "hash": "3053ba9983646015cc370e79b533d03f",
+      "hash": "7a0f3dae5701718a390ad5b30e5a232b",
+      "childHash": "72dd31c85c8d641888a9a31510698046",
       "reused": false
     },
     {
       "uuid": "5ab8fbe1-a9aa-4dc0-9b73-f3078ae9aa86",
       "path": "/blog/game-developers-unleash-next-gen-power-with-project-aurora-5ab8f",
       "templateId": "point.post",
-      "hash": "8ffdd63aba203383f55ac9707ad354c1",
+      "hash": "d03775637116257e9bebe6119238b167",
+      "childHash": "9a4a99f1083570028e23cd6e68a10e45",
       "reused": false
     },
     {
       "uuid": "90f7fcec-0efa-4692-bbb2-b7628343b1e8",
       "path": "/blog/netflixs-gaming-shift-becoming-the-ultimate-gaming-platform-90f7f",
       "templateId": "point.post",
-      "hash": "fa65820153f6fcd0cb6da49b541e170e",
+      "hash": "8f74d88064afdfde91582dcb9f8d1848",
+      "childHash": "fef061afd8f987a564c7cba677d0773f",
       "reused": false
     },
     {
       "uuid": "84561a8b-7dda-42f8-8015-47402ba2b221",
       "path": "/blog/netflix-axes-interactive-games-whats-next-for-gaming-on-netflix-84561",
       "templateId": "point.post",
-      "hash": "8f013fede56794fb99e8f04762078669",
+      "hash": "24ae7587bb6b96a44f962b2e5020837a",
+      "childHash": "f273fcaf5dd4f13d9af420d018fad8b2",
       "reused": false
     },
     {
       "uuid": "617c2006-4df6-438e-ac55-60f018fed168",
       "path": "/blog/baldurs-gate-3-gets-massive-update-with-crossplay-and-new-classes-617c2",
       "templateId": "point.post",
-      "hash": "12e3bd98a0fb1794013bfa96d74db515",
+      "hash": "be28b832977f395dc6c83669f1bd87ed",
+      "childHash": "484f1f0c47e40f4b0ac4e945c89d8e1a",
       "reused": false
     },
     {
       "uuid": "8a1d81c9-eab2-403e-8462-fc452e73e853",
       "path": "/blog/switch-2-vs-rog-ally-the-ultimate-gaming-showdown-8a1d8",
       "templateId": "point.post",
-      "hash": "ba25864a9b56ca8d051e240be72d9a34",
+      "hash": "79bbedfbed0b725584a3924dc89783c5",
+      "childHash": "dd74fdffcceeec33ca687a4086c8bd71",
       "reused": false
     },
     {
       "uuid": "c3e86740-b296-4ab6-9c0e-dc2a5f42bccd",
       "path": "/blog/gaming-news-bethesda-sells-server-keepsakes-c3e86",
       "templateId": "point.post",
-      "hash": "ffdca70409c9e2377085db32412dd796",
+      "hash": "00227da3d27ada6b0989fecf84401ac8",
+      "childHash": "c8cca138fbb0e195199be5fb525d4e6f",
       "reused": false
     },
     {
       "uuid": "17d69b01-77fa-4d77-8d79-982cacac3020",
       "path": "/blog/nintendo-switch-controller-reviews-top-picks-revealed-17d69",
       "templateId": "point.post",
-      "hash": "1566216557490c9427aca43b5109c21a",
+      "hash": "7d088408bca3a0b1a89dc9bc769fa9fc",
+      "childHash": "fb9eac4d7cd868cc9e6f4d3ee051ad43",
       "reused": false
     },
     {
       "uuid": "b1efbd26-7319-4998-af4a-8226036ad2cb",
       "path": "/blog/riftbreaker-leads-the-charge-latest-gaming-news-revealed-b1efb",
       "templateId": "point.post",
-      "hash": "99da7f79572e0a85d74d1b7d6ed09408",
+      "hash": "cfd39123b0d171ec326e8327bf6dca7b",
+      "childHash": "2f1f4c0a7ec281555415a34e1f013797",
       "reused": false
     },
     {
       "uuid": "4321b629-35d0-4817-ae8f-9b1684d5a425",
       "path": "/blog/razer-blade-16-review-ultra-thin-gaming-beast-4321b",
       "templateId": "point.post",
-      "hash": "7717dae0b5b6837ce2c0786fe1eab756",
+      "hash": "924703994fdcd13142a96e9fd2acf7b1",
+      "childHash": "5e119932affae305d814c85e5c37aee4",
       "reused": false
     },
     {
       "uuid": "f04cd156-0b06-4afc-80a3-20af64ac920b",
       "path": "/blog/hollywoods-hidden-code-how-video-games-are-taking-center-stage-f04cd",
       "templateId": "point.post",
-      "hash": "eaa3e058de19cf7663ddf1b2fd9e386f",
+      "hash": "0b0832161b5bb0f3c530ba9f579d5e1c",
+      "childHash": "272976ae7dd4fe6af10fdf4075d8b9dc",
       "reused": false
     },
     {
       "uuid": "bf851d79-1f81-4af7-b40e-d146e062ff3c",
       "path": "/blog/oblivion-remaster-bethesda-reveals-release-date-countdown-bf851",
       "templateId": "point.post",
-      "hash": "41b4f80b4bd55b49445bdfd312c82769",
+      "hash": "7e8e652c3b6c5d2905464a3230152273",
+      "childHash": "e88cfb9e231984c16816a116591719a6",
       "reused": false
     },
     {
       "uuid": "e61e236e-8d99-412e-9ba2-44bc4663e679",
       "path": "/blog/nintendo-switch-2-preorders-sell-out-a-bitter-wait-ahead-e61e2",
       "templateId": "point.post",
-      "hash": "969267fa41884b4c4a21e2c0d0306a0c",
+      "hash": "7a1b27c16a8b906cb6c45186f74d1089",
+      "childHash": "ee190b739d8784876f5a292905942649",
       "reused": false
     },
     {
       "uuid": "1db0c2f9-20b1-4301-a047-732e18df180f",
       "path": "/blog/god-of-war-ragnarok-sets-new-gaming-standards-1db0c",
       "templateId": "point.post",
-      "hash": "aeb6ed7094d478ddc105540ead842b56",
+      "hash": "944d6c59d7919d7ea825b41338a94958",
+      "childHash": "065b1d49bd2e27cfc167cdec817b4762",
       "reused": false
     },
     {
       "uuid": "dc4497c3-793d-489b-8bb5-f26b4835ef4c",
       "path": "/blog/fortnite-teams-up-with-star-wars-for-epic-crossover-dc449",
       "templateId": "point.post",
-      "hash": "1b9470a0a39e723ad2b1b52e59c000a9",
+      "hash": "5ebf72202b50d62db0c4eb99ed14a089",
+      "childHash": "784419a8a44277d89f3ef8ed6988c8cc",
       "reused": false
     },
     {
       "uuid": "7d2882dd-6867-4fab-a691-978b4d77d17a",
       "path": "/blog/battlefield-2042-revamped-whats-new-in-gaming-news-7d288",
       "templateId": "point.post",
-      "hash": "b0626a071bd6fcfbb55eac9c983a1935",
+      "hash": "529a65e45cbf12a986f17b0255c11fc4",
+      "childHash": "b63b4301ad3099747eabed94d5ec0a74",
       "reused": false
     },
     {
       "uuid": "72a97741-6b6e-4311-882c-fef29b04c187",
       "path": "/blog/elden-ring-nightreign-a-stormy-new-multiplayer-mode-72a97",
       "templateId": "point.post",
-      "hash": "bbe6098cb80f7d385140b46d691b1298",
+      "hash": "96459532baf911b2c3b586d600a2127b",
+      "childHash": "2f027ae2e018cc5dbf99ca48690c4d23",
       "reused": false
     },
     {
       "uuid": "2def8f3f-ba07-4220-b192-9f7df8c42d23",
       "path": "/blog/nightreign-elden-ring-multiplayer-spinoff-gets-detailed-2def8",
       "templateId": "point.post",
-      "hash": "40daf357b72ded582e6a56d6dbe4c08a",
+      "hash": "83c8849dd80227cf353c204c44d3f5d7",
+      "childHash": "38831dd2e39a64449e5b9bde0128f168",
       "reused": false
     },
     {
       "uuid": "b6b80f7a-2a82-4613-976b-26a7eff20eff",
       "path": "/blog/nyt-games-launches-leaderboard-for-puzzle-lovers-and-celebrities-alike-b6b80",
       "templateId": "point.post",
-      "hash": "7020fdbec08fe34e41693817fb8941a6",
+      "hash": "8db7d221c0b73fe1f90d6b5452e32d3d",
+      "childHash": "79021bc2046f9a6747ea8c42f7337aa2",
       "reused": false
     },
     {
       "uuid": "cfe53222-aa4e-479b-ba52-2aab9cd14b92",
       "path": "/blog/nintendos-exclusive-switch-2-preorder-offers-cfe53",
       "templateId": "point.post",
-      "hash": "565c3559898603aae4233ba687d3f5f7",
+      "hash": "5e1b78d123400ce7ce94f9945e8889f9",
+      "childHash": "45b136cbb934b84ce3becd76f631964c",
       "reused": false
     },
     {
       "uuid": "cab201f9-223f-4647-a2a4-165c928aa3a7",
       "path": "/blog/epic-rewards-overhaul-brings-20-cashback-in-fortnite-and-more-cab20",
       "templateId": "point.post",
-      "hash": "a9cdfcec93de22aedfda202faaea2f97",
+      "hash": "f518651b0b6d619927b8f37f0ecd3593",
+      "childHash": "be6a55be1a322184d077195af682a59f",
       "reused": false
     },
     {
       "uuid": "3afcc904-2900-4689-a80b-e532220ae031",
       "path": "/blog/galactic-gaming-innovations-whats-next-for-star-wars-fans-and-gamers-alike-3afcc",
       "templateId": "point.post",
-      "hash": "2bb1a310b912184c24a3e97366bae927",
+      "hash": "ec967787a7a00540dbf3e1e5eae4dc95",
+      "childHash": "5105358038d226ba0383cb81a51e01ea",
       "reused": false
     },
     {
       "uuid": "210b410f-5698-42d5-9246-b00078b119c8",
       "path": "/blog/gaming-industry-shakes-up-with-cloud-gaming-diversity-initiatives-210b4",
       "templateId": "point.post",
-      "hash": "8652f78185eb85e3183fd403d5bc17e6",
+      "hash": "e2f3c1a56b11464d9792aec52823382d",
+      "childHash": "2be19c832fcd877475f61041f54e10bf",
       "reused": false
     },
     {
       "uuid": "06655c36-3e0f-4fe9-906a-c1ad2a67683d",
       "path": "/blog/nintendo-switch-2-leans-in-on-mouse-support-06655",
       "templateId": "point.post",
-      "hash": "ae562a9c36993aefc434f6dbb6011f96",
+      "hash": "92e6a4c003c066e8b8db34b2efbfb5b2",
+      "childHash": "62251ae157c034272ba532732fe261c7",
       "reused": false
     },
     {
       "uuid": "063d6407-8640-4e99-bb53-9f9b23b1627f",
       "path": "/blog/scufs-wireless-controllers-get-a-drift-free-boost-063d6",
       "templateId": "point.post",
-      "hash": "538c2382cdf0b97a26dafe9eb024be68",
+      "hash": "97ee1aed4e07a6ee0fba6e53ba7d14d3",
+      "childHash": "2ddc8851caf9749024ae992b6e1100de",
       "reused": false
     },
     {
       "uuid": "82df6cf5-0b1a-450b-a005-36c24b6a5959",
       "path": "/blog/elden-ring-and-beyond-gaming-industry-updates-82df6",
       "templateId": "point.post",
-      "hash": "43806c2d8266bf619c6a9efd58867b67",
+      "hash": "fe74c194f801447544a95d851775ccbf",
+      "childHash": "d8245f28ce5f121074084361748cedb0",
       "reused": false
     },
     {
       "uuid": "970304ae-6e2f-4f4c-8959-907672100863",
       "path": "/blog/nova-2-lite-affordable-gaming-redefined-97030",
       "templateId": "point.post",
-      "hash": "c451a5f836c243132f02235624090e03",
+      "hash": "f46aef61b1d293f2b6be25197359c06c",
+      "childHash": "ddcd3faccf01bbc4002a6a99a243fc10",
       "reused": false
     },
     {
       "uuid": "97b7b4d0-b539-4267-9b39-5031c71683b7",
       "path": "/blog/elden-ring-patch-1-02-brings-solo-run-savior-what-you-need-to-know-97b7b",
       "templateId": "point.post",
-      "hash": "c01fae877f5abc9bd6aa28607c6089f0",
+      "hash": "b199f0112ec86872cb46c51007f318f5",
+      "childHash": "51cedabe8e17ee12ba95b39f81803a50",
       "reused": false
     },
     {
       "uuid": "6107ec3a-44a3-4ca3-9330-ecad3d951e12",
       "path": "/blog/fortnites-next-gen-update-revealed-stunning-visuals-ahead-6107e",
       "templateId": "point.post",
-      "hash": "f3c171f03ab8224ce20d832bc0e81ad4",
+      "hash": "ec3974c7b37d35eca36d7a5237eed51c",
+      "childHash": "c0cf22376e860e28cb2bce465b96a6d6",
       "reused": false
     },
     {
       "uuid": "55c54f19-ec9a-49e8-8213-0ddba7d695ae",
       "path": "/blog/xbox-raises-prices-whats-next-for-gamers-55c54",
       "templateId": "point.post",
-      "hash": "5a65bf8bb5af691a716f643b1f5d4462",
+      "hash": "c9c150c71ab098568341ef2f02b89860",
+      "childHash": "404a053f16d328a155971a9a5c7d1586",
       "reused": false
     },
     {
       "uuid": "061113ad-d4dc-488b-bb79-28325bb4e33e",
       "path": "/blog/destiny-franchise-expands-on-mobile-with-rise-of-a-new-hero-06111",
       "templateId": "point.post",
-      "hash": "045de86fd47bfe5aeb7817c4e6b68275",
+      "hash": "b72ebe9a9f0a1628027e380a2f6aa0fd",
+      "childHash": "de6227984f7cfb80c56d7c25b15eac13",
       "reused": false
     },
     {
       "uuid": "1ce85348-837e-48c8-9fae-538e76352ab7",
       "path": "/blog/hollow-knight-silksong-release-date-finally-revealed-for-september-4th-1ce85",
       "templateId": "point.post",
-      "hash": "efe1e104c1c60db981715991e6b1c9e5",
+      "hash": "1d7fd9c64f9adfb702d9cade3ecdd415",
+      "childHash": "804000e70155ba232671d424d61c1654",
       "reused": false
     },
     {
       "uuid": "743bcb01-13f3-4de8-86bb-b41f62444d8a",
       "path": "/blog/nvidias-flagship-gpu-affected-by-manufacturing-defect-issues-743bc",
       "templateId": "point.post",
-      "hash": "651874bcdc8f9910d106f0e184ec8a9f",
+      "hash": "dd7ca870054c0002f321c23d42cfc97c",
+      "childHash": "f1d57c470c66272f8bc8ffdebdd1cff9",
       "reused": false
     },
     {
       "uuid": "6ece1802-0b1b-4c32-ad84-0e58e1506d1a",
       "path": "/blog/sonys-vr-headset-revolutionizing-gaming-6ece1",
       "templateId": "point.post",
-      "hash": "42ec5c2624396e6cd4b6f2497c6a2f51",
+      "hash": "a1b423341084056cd9bd2bde12e7b5f5",
+      "childHash": "4abda6c70b4a24d9b501e293fbcd2acf",
       "reused": false
     },
     {
       "uuid": "548f2863-6402-495c-96e2-9b6f28547e8b",
       "path": "/blog/silver-lake-leads-gaming-industry-power-play-with-10b-deal-548f2",
       "templateId": "point.post",
-      "hash": "fba716ba661d50d17cfd105b416cb146",
+      "hash": "3523480061b21451ba1c6c270c4dc599",
+      "childHash": "4c518da978a8ebeb0fa9a1e35673491d",
       "reused": false
     },
     {
       "uuid": "dcef800c-6c7e-463b-8966-6255659ee82c",
       "path": "/blog/steelseries-arctis-nova-elite-review-worth-the-599-luxury-price-tag-dcef8",
       "templateId": "point.post",
-      "hash": "024f46720bf1db8d523448f4eecf8db3",
+      "hash": "698161d5f8ef142f1be81058cc62470a",
+      "childHash": "cb62779956fef390af4363a9c718f5b5",
       "reused": false
     },
     {
       "uuid": "caa17428-1914-4024-ad6e-980cc1e4f700",
       "path": "/blog/gpd-win-5-the-ultimate-portable-gaming-console-with-unmatched-performance-caa17",
       "templateId": "point.post",
-      "hash": "1d8c8779de4d8a13321303460e49bae7",
+      "hash": "2132a6cc471946fa92df8a2a0cefd623",
+      "childHash": "3e304956ae01ac89de8b00a3da2279da",
       "reused": false
     },
     {
       "uuid": "809d5e07-9702-4071-9451-b55ee37c5d3d",
       "path": "/blog/free-ad-supported-xbox-cloud-gaming-arrives-what-you-need-to-know-809d5",
       "templateId": "point.post",
-      "hash": "9bb640846986e8bb03579a0a1c78a31d",
+      "hash": "f6dde1a5a48310dfb666b9b872fd6e56",
+      "childHash": "de7ecaf1b044aafefab2f48d39645396",
       "reused": false
     },
     {
       "uuid": "e3ebe53b-cad2-4fb9-8670-dc8df2fd9eb2",
       "path": "/blog/playdate-os-3-0-folders-game-library-app-and-storage-expansion-e3ebe",
       "templateId": "point.post",
-      "hash": "b745ce27f20450dcb7b89782f9bb1200",
+      "hash": "5e60f8aa0c00849e51a421376b0e3ca7",
+      "childHash": "c89a3fb151742cbc8fc8f83cf3bf8502",
       "reused": false
     },
     {
       "uuid": "ebde610f-9b78-486b-b3de-7fd30c4033c6",
       "path": "/blog/netflix-brings-multiplayer-party-games-to-tv-this-holiday-season-ebde6",
       "templateId": "point.post",
-      "hash": "85fd300866e23de94ed092ac60a7012f",
+      "hash": "6ae8a04f8d0aed5d6e0e5f30213ef682",
+      "childHash": "c3649208d24ff4800d130e7a7c7a917a",
+      "reused": false
+    },
+    {
+      "uuid": "9b64900c-ef3e-4d87-9ab5-d1edb27074a7",
+      "path": "/blog/elgato-embrace-chair-the-ultimate-comfort-upgrade-for-gamers-9b649",
+      "templateId": "point.post",
+      "hash": "5b08b6aadfb6530943d1028aa1c106c8",
+      "childHash": "58480646ac080cea70464e18c13161d5",
+      "reused": false
+    },
+    {
+      "uuid": "c36c9562-c1ec-4317-84c4-586d6a57b9a8",
+      "path": "/blog/fractals-scape-redefining-minimalist-gaming-headsets-with-style-and-substance-c36c9",
+      "templateId": "point.post",
+      "hash": "8ed552904a8f8ab34b11a6c591ee0ec6",
+      "childHash": "2a1214502c9e4c55666520a76bab0e40",
+      "reused": false
+    },
+    {
+      "uuid": "fa946196-e593-4ea0-a579-f6cdf5008282",
+      "path": "/blog/gaming-giants-unveil-game-changing-updates-ghost-recon-overwatch-2-switch-oled-more-fa946",
+      "templateId": "point.post",
+      "hash": "ddfc3fab994a6c319e032a67a01e8a7f",
+      "childHash": "2347c2306b0cbf437a83f5ce76b6d21a",
+      "reused": false
+    },
+    {
+      "uuid": "22574b2f-f63e-4221-9d0e-a91aa1e2c5e0",
+      "path": "/blog/rotom-phone-3-how-new-features-make-exploring-lumiose-city-safer-and-more-fun-22574",
+      "templateId": "point.post",
+      "hash": "3ba8f71ca273102fae5c7f29a454c962",
+      "childHash": "0b760171067bad9b9584b1351898c26e",
+      "reused": false
+    },
+    {
+      "uuid": "91f169c0-f9ae-4bdc-b088-4ff901dca812",
+      "path": "/blog/intellivision-makes-a-high-def-comeback-with-wireless-controls-and-hd-games-91f16",
+      "templateId": "point.post",
+      "hash": "7f0b33e826fb58f932f2e355497af69b",
+      "childHash": "55348db1f5a4e40dac5a3d93319d4c51",
+      "reused": false
+    },
+    {
+      "uuid": "b984fcf4-9602-4381-90c9-62cfbde9e5a4",
+      "path": "/blog/pokemon-release-this-weekend-a-must-play-adventure-for-fans-old-and-new-b984f",
+      "templateId": "point.post",
+      "hash": "fd2a7175b15107d6aa79152020e26dbe",
+      "childHash": "cf0727443a210fe59e1dde2203737cb4",
+      "reused": false
+    },
+    {
+      "uuid": "fd903f4c-3cf2-4348-8b05-0ae9b0fd8bb8",
+      "path": "/blog/is-xbox-redefining-gaming-consoles-or-just-rebranding-tech-fd903",
+      "templateId": "point.post",
+      "hash": "0675ce5fecc5eb458b8bb522a6de9c12",
+      "childHash": "4fdc1c1d98a9cb4f3edeca180a17a048",
+      "reused": false
+    },
+    {
+      "uuid": "11c0c7bf-27c4-498d-99be-bb25373b9631",
+      "path": "/blog/major-azure-outage-disrupts-xbox-minecraft-and-top-brands-worldwide-11c0c",
+      "templateId": "point.post",
+      "hash": "84e4a3e406108b8e56c2b9827e5dc380",
+      "childHash": "8c1b6651bf506bb6ba38290485110651",
+      "reused": false
+    },
+    {
+      "uuid": "7e3792e7-9b08-45d3-81c9-cea5c4aa512a",
+      "path": "/blog/unboxing-innovation-yuga-labs-boximus-avatars-revolutionize-otherside-metaverse-7e379",
+      "templateId": "point.post",
+      "hash": "8d547523b989adf38596e1086c250d44",
+      "childHash": "be07ce492dd17a9e593c61fafccb3cf5",
+      "reused": false
+    },
+    {
+      "uuid": "d30e231a-6f33-4f1e-a405-e0f086f3855a",
+      "path": "/blog/gaming-industry-heats-up-ps5-pro-xbox-cloud-gaming-more-hits-d30e2",
+      "templateId": "point.post",
+      "hash": "6a1147279e5c8147aaf66e8eef67a162",
+      "childHash": "e8648becb6887901bc9c7c7b3027b783",
+      "reused": false
+    },
+    {
+      "uuid": "179391ee-b047-439e-86b7-f0213ce4cf96",
+      "path": "/blog/ayaneo-teases-retro-future-gaming-phone-with-physical-controls-17939",
+      "templateId": "point.post",
+      "hash": "d402191f400c8baeac6b7ac9408bc53b",
+      "childHash": "e25a65f12f7b96fcf101109942e31dc8",
       "reused": false
     },
     {
       "uuid": "3542574a-d20b-4b06-8e5f-8aca92a37d78",
       "path": "/about",
       "templateId": "point.page",
-      "hash": "2f769207b524ccbf2b8b50477bd3919d",
+      "hash": "91d6aa5208a9a103ccf9711ae83c7864",
+      "childHash": "695a714f5404e2944d960828f684e007",
       "reused": false
     }
   ]
